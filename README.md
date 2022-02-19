@@ -1,1 +1,1 @@
-# text_to_binary_encoder.py
+# text to binary encoder
